@@ -29,7 +29,7 @@
     "url": "https://github.com/New-York-Praktikum-Team/game-frontend/issues"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=12.0.0 <=14.18.1"
   },
   "homepage": "https://github.com/New-York-Praktikum-Team/game-frontend#readme",
   "devDependencies": {
